@@ -2064,15 +2064,15 @@ print (dfPred)
 # Further Imporvements
 
 Soon
--Incorporate other financial models/mathematical approaches for further insight into investments
--Further develop machine learning applications to improve model accuracy/fit
--Incorporate zip code value trends into property value projections
--Make geospatial maps interactive (can click on dots that give links to properties)
--Add inputs for potential variables like property renovations
+- Incorporate other financial models/mathematical approaches for further insight into investments
+- Further develop machine learning applications to improve model accuracy/fit
+- Incorporate zip code value trends into property value projections
+- Make geospatial maps interactive (can click on dots that give links to properties)
+- Add inputs for potential variables like property renovations
 
 
 Far
--Utilize image recognition AI to grade property conditions and incorporate it into ML models
--Incorporate other buy/rent databases such as apartments.com
--Build out the front end for more fluid interactability
--Develop an option for commercial investments with similar logic
+- Utilize image recognition AI to grade property conditions and incorporate it into ML models
+- Incorporate other buy/rent databases such as apartments.com
+- Build out the front end for more fluid interactability
+- Develop an option for commercial investments with similar logic
